@@ -1,0 +1,53 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: lqr3t7W1AILLDHCuS5E57acy+uY=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: jVCdG1lKvQ7YCqCdruuxY5UAngc=
+
+Name: classes.dex
+SHA1-Digest: oTO7L/QlrYF7uQ+vpct+CMYznFY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: 8CCWDLhcZbc11rbl8gnrEb7h4Vc=
+
+Name: res/drawable-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: Pz9FUnsKi+QQeMHjQCqxh+atDHU=
+
+Name: res/drawable-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: VlTFLucwIO0LvnLtu2+oDehltQw=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: ZNjyPwcP0ETyEQR1++s3hgKfsT4=
+
+Name: res/drawable-mdpi-v4/ic_launcher_bacground.png
+SHA1-Digest: GIvpGx9Tj4k5veS/hXOiRD5j2cg=
+
+Name: res/drawable-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: LQAd6iQMCyVR8t8WhlW1kJw+rQQ=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: jFySajuXCAGTZNHZNhu3+8kf3f0=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: 4580CAK4cdZYndldvGGtsTLpvmA=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: PsNtkRp80wKM89UPrFG4h7abdT8=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: jR4O+xwi1f0vB7Ej0R2Uxeomfq0=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: F9/uCOZ7JRmKRFQ1nkGbBmqlQpo=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: CKuH0Fzg0SNDbi7fC3m4kMCnLhY=
+
+Name: res/layout/main.xml
+SHA1-Digest: Oz7UlqwPGt8K8kpQGS8VttvR7kE=
+
+Name: resources.arsc
+SHA1-Digest: s7u2HRIUGVjQSBJJZPVLwtIJaPU=
+

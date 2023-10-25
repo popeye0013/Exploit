@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<public type="drawable" name="ic_launcher" id="0x7f020000" />
+<public type="drawable" name="ic_launcher_bacground" id="0x7f020001" />
+<public type="drawable" name="ic_launcher_round" id="0x7f020003" />
+<public type="drawable" name="ic_launcher_background" id="0x7f020002" />
+<public type="layout" name="main" id="0x7f030000" />
+<public type="string" name="hello" id="0x7f040000" />
+<public type="string" name="app_name" id="0x7f040001" />
+<public type="string" name="text" id="0x7f040002" />
+<public type="string" name="text1" id="0x7f040003" />
+<public type="string" name="password" id="0x7f040004" />
+<public type="style" name="AppTheme" id="0x7f050000" />
+<public type="id" name="mainButton1" id="0x7f060000" />
+<public type="id" name="mainEditText1" id="0x7f060001" />
+</resources>

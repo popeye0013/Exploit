@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3KR4VTYox80/VvKgE+qi7KD7zzg=
+
+Name: classes.dex
+SHA1-Digest: rmI4RJ8z26tKWXYopZn1mjFsBp0=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: b52mr0PkN4NmJE/LD5N6d+8fz70=
+
+Name: res/drawable-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: Pg/OViKvZ8BpkDXx4lNLHD5nIgk=
+
+Name: res/drawable-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: d0362lt3JZa4zpGEp6tFBLV3WQ0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 1KGWs2PwJmniWw3eKCqc9vsgP+Q=
+
+Name: res/drawable-mdpi-v4/ic_launcher_bacground.png
+SHA1-Digest: Pg/OViKvZ8BpkDXx4lNLHD5nIgk=
+
+Name: res/drawable-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: d0362lt3JZa4zpGEp6tFBLV3WQ0=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: bab2R22nB0LQoZ4E1cPs3HNobIM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: Pg/OViKvZ8BpkDXx4lNLHD5nIgk=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: d0362lt3JZa4zpGEp6tFBLV3WQ0=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: BczkcY1HGk7tVE8dD0h0kFcK6m4=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: Pg/OViKvZ8BpkDXx4lNLHD5nIgk=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: d0362lt3JZa4zpGEp6tFBLV3WQ0=
+
+Name: res/layout/main.xml
+SHA1-Digest: G+PpP4aIWcaEYeNnlqgZbjH8+NY=
+
+Name: resources.arsc
+SHA1-Digest: rIiYKzGZ9qR3+lz50qRXjvXDS8Y=
+
